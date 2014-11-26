@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <error.h>
 
+// this timer is never affected by settimeofday
+
 //=================================================
 // get_time
 // Œ»İ‚ÌŠÔî•ñ‚ğ“¾‚é
